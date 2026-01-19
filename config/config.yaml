@@ -25,13 +25,13 @@ app:
 # ===============================================================
 platforms:
 - id: "notices"
-    name: "东财公告大全"
+  name: "东财公告大全"
 - id: "zhibo"
-    name: "东财股市直播"  
+   name: "东财股市直播"  
 - id: "ssgs"
-    name: "东财上市公司快讯" 
- # - id: "toutiao"
- #   name: "今日头条"
+  name: "东财上市公司快讯" 
+ - id: "toutiao"
+   name: "今日头条"
   - id: "baidu"
     name: "百度热搜"
   - id: "wallstreetcn-hot"
@@ -48,10 +48,10 @@ platforms:
   #  name: "贴吧"
   - id: "weibo"
     name: "微博"
-  #- id: "douyin"
-  #  name: "抖音"
-  #- id: "zhihu"
-  #  name: "知乎"
+  - id: "douyin"
+    name: "抖音"
+  - id: "zhihu"
+    name: "知乎"
 
 
 # ===============================================================
